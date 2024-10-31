@@ -1,0 +1,28 @@
+name: cobasabila
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0 # Pastikan ini ditambahkan atau versi terbaru dari provider
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/heart.png
+    - assets/images/sample_1.png
+    - assets/images/sample_2.png
+    - assets/images/sample_3.png
+    - assets/images/sample_4.png
+    - assets/images/profile_picture.png
+    - assets/audios/relaxing_sounds.mp3
