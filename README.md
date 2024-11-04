@@ -1,6 +1,10 @@
 # cobasabila
 
-A new Flutter project.
+https://dribbble.com/shots/22721212-Self-care-mobile-app-design
+
+![original-f969d9b75b59b8105ea1579cac4aa82b](https://github.com/user-attachments/assets/f9945ee5-4c39-4652-8f7f-0149089e3c86)
+
+[Aplikasi Demo Self-care mobile app design](https://github.com/user-attachments/assets/607bbca9-ac60-486b-93a3-3d8f4817365d)
 
 ## Getting Started
 
